@@ -2,7 +2,7 @@
 #showcase_div {
     padding: 100px 15%;
     margin: 0;
-    border-top: 5px solid #e45555;
+    border-top: 5px solid #0082c6;
 }
 
 .div_heading {
@@ -39,7 +39,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #e45555;
+    border: 2px solid #0082c6;
     border-radius: 100%;
 }
 
@@ -63,7 +63,7 @@
 }
 
 .div_subheading {
-    color: #525252;
+    color: #0082c6;
     font-family: open sans;
     font-size: 14px;
     text-align: center;
