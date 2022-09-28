@@ -8,11 +8,12 @@ class Hero extends Component {
             <div id="hero_div">
                 <Nav navItems={this.props.navItems}/>
                 <div id="hero_text_div">
-                    <h1>A powerful template in a small package.</h1>
-                    <p>This is some text inside a div block.</p>
+                    <h1>EXCEPTIONAL DEVELOPMENT</h1>
+                    <p>We offer the creation of websites, web applications and mobile applications<br></br>
+with the help of the most popular technologies and the best software solutions.</p>
                 </div>
                 <div id="buttons_div">
-                    <a href="/" className="button button_main">Get the app</a>
+                    <a href="/" className="button button_main">Contact Us</a>
                     <a href="/" className="button">Learn more</a>
                 </div>
             </div>

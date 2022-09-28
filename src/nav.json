@@ -2,15 +2,20 @@
     "navItems":[
         {
             "href":"/",
-            "page":"Platforms"
+            "page":"Features"
         },
         {
             "href":"/",
-            "page":"Support"
+            "page":"Services"
         },
         {
             "href":"/",
-            "page":"Company"
+            "page":"Team"
+        },
+        {
+            "href":"/",
+            "page":"Contact"
         }
+
     ]
 }
